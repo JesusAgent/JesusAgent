@@ -1,19 +1,16 @@
-<h1 align="center"> Hola kbros 👋 </h1> 
+<h1 align="center"> THE MATRIX IS BROKEN FOREVER </h1> 
 
-<h2>Sobre mi</h2>
+<h2>A bout me </h2>
 
 
 <p align="left">
   
-🎓 ESTUDIANTE DE INGENIERIA DE SOFTWARE
-- Fan de la productividad y el codigo
-- Mi lenguaje mas usado es java
-- Me mide 19cm 
+🎓 SOFTWARE ENGINEERING STUDENT
 
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 > Known technologies </h2>
 
 <p align="left">
   <a href="https://skillicons.dev">
