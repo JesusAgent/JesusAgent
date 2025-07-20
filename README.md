@@ -1,6 +1,6 @@
 <h1 align="center"> THE MATRIX IS BROKEN FOREVER </h1> 
 
-<h2>A bout me </h2>
+<h2> About me </h2>
 
 
 <p align="left">
