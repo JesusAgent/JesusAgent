@@ -5,7 +5,7 @@
 
 <p align="left">
   
-🎓 ESTUDIANTE DE INGENIERO DE SOFTWARE
+🎓 ESTUDIANTE DE INGENIERIA DE SOFTWARE
 - Fan de la productividad y el codigo
 - Mi lenguaje mas usado es java
 - Me mide 19cm 
