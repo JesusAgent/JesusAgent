@@ -5,7 +5,7 @@
 
 <p align="left">
   
-🎓 SOFTWARE ENGINEERING STUDENT
+SOFTWARE ENGINEERING STUDENT
 
   </p>
 <br>
